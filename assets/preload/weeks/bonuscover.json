@@ -1,0 +1,41 @@
+{
+  "songs": [
+    [
+      "Atrocity",
+      "poyo",
+      [
+        255,
+        181,
+        181
+      ]
+    ],
+    [
+      "taste-for-drip",
+      "poyo",
+      [
+        255,
+        181,
+        181
+      ]
+    ]
+  ],
+  "hiddenUntilUnlocked": false,
+  "hideFreeplay": false,
+  "weekBackground": "stage",
+  "difficulties": "Normal",
+  "weekCharacters": [
+    "dad",
+    "bf",
+    "gf"
+  ],
+  "storyName": "Downtown Funkin\u0027",
+  "weekName": "bonuscover",
+  "freeplayColor": [
+    255,
+    181,
+    181
+  ],
+  "hideStoryMode": true,
+  "weekBefore": "tutorial",
+  "startUnlocked": true
+}

@@ -1,0 +1,60 @@
+{
+  "dialogue": [
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyoport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "god i love walking"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyoport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "..."
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "bfport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "beep"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyoport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "boy what th-"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyoport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "omg bf from Friday night funkin"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "bfport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "brep pie bop"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyoport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "bet"
+    }
+  ]
+}

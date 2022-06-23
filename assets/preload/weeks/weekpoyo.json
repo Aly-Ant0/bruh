@@ -1,0 +1,50 @@
+{
+  "songs": [
+    [
+      "Summer-Sunset",
+      "poyo",
+      [
+        255,
+        181,
+        181
+      ]
+    ],
+    [
+      "Energizer",
+      "poyo",
+      [
+        255,
+        181,
+        181
+      ]
+    ],
+    [
+      "epic",
+      "poyo",
+      [
+        255,
+        181,
+        181
+      ]
+    ]
+  ],
+  "hiddenUntilUnlocked": false,
+  "hideFreeplay": false,
+  "weekBackground": "stage",
+  "difficulties": "Normal",
+  "weekCharacters": [
+    "dad",
+    "bf",
+    "gf"
+  ],
+  "storyName": "Downtown Funkin\u0027",
+  "weekName": "weekpoyo",
+  "freeplayColor": [
+    255,
+    181,
+    181
+  ],
+  "hideStoryMode": false,
+  "weekBefore": "tutorial",
+  "startUnlocked": true
+}

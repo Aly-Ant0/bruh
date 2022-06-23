@@ -1,0 +1,52 @@
+{
+  "dialogue": [
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyoport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "niiiiceee"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyoport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "so are we supposed to make a full week or smth"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "bfport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "bap"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyoport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "hell yeaaaaaaaaa"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyoport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "I don\u0027t know what to name this one, sounds a bit fun"
+    },
+    {
+      "sound": "",
+      "speed": 0.05,
+      "portrait": "poyoport",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "fuck it, naming it \"I prefer HaxeFlixel\""
+    }
+  ]
+}
